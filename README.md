@@ -17,7 +17,7 @@
         
         body {
             font-family: 'Montserrat', sans-serif;
-            background-color: #fff9fb;
+            background-color: #919191;
             color: var(--text-dark);
             overflow-x: hidden;
             margin: 0;
@@ -52,8 +52,8 @@
         
         .photo-frame {
             transition: all 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-            border: 8px solid white;
+            box-shadow: 0 10px 20px rgba(5, 124, 139, 0.1);
+            border: 8px solid rgb(253, 76, 135);
             transform: rotate(-2deg);
             display: inline-block;
             width: 100%;
@@ -491,8 +491,7 @@ On your birthday, I hope you feel how deeply loved and cherished you are. No mat
                     <button type="submit" class="btn-primary text-white px-8 py-3 rounded-full font-semibold">Send</button>
 
         </div>
-    </section>
-    
+
     <!-- Footer -->
     <footer class="py-12 px-4" style="background-color: var(--text-dark); color: white;">
         <div class="container mx-auto">
